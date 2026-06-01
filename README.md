@@ -29,4 +29,9 @@ D'aquests dos cursos m'emporto molts coneixements nous, noves amistats i experi�
 ## Tasques que mes m'han agradat:
 
 Una de les activitats que més em va agradar va ser treballar amb Figma, ja que em va permetre dissenyar una pàgina web de vapejadors de manera creativa i visual, aprenent conceptes de disseny i organització de continguts.
+
+
 [link figma](https://www.figma.com/design/UohcJxnvaqlyK4Hf3S4JsZ/Sin-t%C3%ADtulo?node-id=0-1&p=f&t=YuRHE3i5Svks84G4-0)
+
+Una altra activitat que em va agradar molt va ser la creació d'una pàgina web sobre la sostenibilitat amb l'ajuda de la intel·ligència artificial. Aquesta activitat em va permetre aprendre noves eines digitals, investigar sobre un tema important i combinar creativitat i tecnologia per desenvolupar un projecte interessant.
+
