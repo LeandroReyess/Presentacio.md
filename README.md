@@ -28,7 +28,7 @@ De cara al futur, m'agradaria crear la meva pròpia empresa dedicada a la venda 
 
 La meva idea és oferir un espai on la gent no només pugui comprar tecnologia, sinó també comptar amb un suport tècnic proper, ràpid i de qualitat quan ho necessiti.
 
-![Objectiu professional](imagen/imagen1.png)
+![Objectiu professional](imagen/imagen2.png)
 
 ---
 
