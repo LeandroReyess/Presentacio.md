@@ -20,4 +20,4 @@ Em considero una persona molt sociable, responsable i amb facilitat per treballa
 
 De cara al futur, m’agradaria crear la meva pròpia empresa dedicada a la venda de dispositius electrònics, semblant a models com PcComponentes, però amb un valor afegit important: disposar també d’un servei tècnic de reparació i manteniment. La idea és oferir un espai on la gent no només pugui comprar tecnologia, sinó també confiar que tindrà un suport tècnic ràpid, proper i de qualitat quan ho necessiti.
 
-![img](imagen/imagen1)
+![img](imagen/imagen1.png)
