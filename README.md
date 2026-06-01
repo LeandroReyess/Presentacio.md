@@ -35,3 +35,4 @@ Una de les activitats que més em va agradar va ser treballar amb Figma, ja que 
 
 Una altra activitat que em va agradar molt va ser la creació d'una pàgina web sobre la sostenibilitat amb l'ajuda de la intel·ligència artificial. Aquesta activitat em va permetre aprendre noves eines digitals, investigar sobre un tema important i combinar creativitat i tecnologia per desenvolupar un projecte interessant.
 
+[link web IA](https://leandroreyess.github.io/Foodlogistic-Leandro/#)
